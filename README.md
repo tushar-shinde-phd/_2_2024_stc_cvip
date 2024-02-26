@@ -5,7 +5,9 @@ Short-term course on Advances in Computer Vision and Image/Video Processing
 The course aims to provide participants with comprehensive insights into cutting-edge advancements in computer vision and image/video processing. By the end, participants will master techniques for efficient image/video processing in data science, gaining hands-on experience with Python/MATLAB and exploring real-world applications and case studies.
 
 **Learning Outcomes:**
+
 Upon completion, participants will:
+
 •	Possess a thorough understanding of various methods and modern technologies in computer vision.
 
 •	Master image processing techniques, including filtering, super-resolution, and AI/ML-driven classification.
@@ -13,6 +15,7 @@ Upon completion, participants will:
 •	Apply image registration, data-driven segmentation, quality assessment, motion estimation, and advanced compression methods.
 
 •	Demonstrate practical skills through hands-on Python/MATLAB sessions and project work.
+
 
 **Topics:**
 
